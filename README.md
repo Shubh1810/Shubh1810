@@ -31,5 +31,5 @@ I'm Shubh Sheth, a passionate Software Developer and AI enthusiast currently stu
 ---
 
 
-![GitHub Contribution Snake](https://raw.githubusercontent.com/your-github-username/your-github-username/output/github-contribution-grid-snake.svg)
+![GitHub Contribution Snake](https://raw.githubusercontent.com/Shubh1810/Shubh1810/output/github-contribution-grid-snake.svg)
 
