@@ -31,11 +31,11 @@ I'm Shubh Sheth, a passionate Software Developer and AI enthusiast currently stu
 
 ### 🌐 Connect with me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](your-linkedin-url)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](your-twitter-url)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/shubh-sheth-98219433l)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)]((https://x.com/shubh_1810?s=21))
 
 ---
 
 
-![GitHub Contribution Snake](https://raw.githubusercontent.com/Shubh1810/output/github-contribution-grid-snake.svg)
+![GitHub Contribution Snake](https://raw.githubusercontent.com/username=Shubh1810/output/github-contribution-grid-snake.svg)
 
