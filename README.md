@@ -36,7 +36,3 @@ I'm Shubh Sheth, a passionate Software Developer and AI enthusiast currently stu
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)]((https://x.com/shubh_1810?s=21))
 
 ---
-
-
-![GitHub Contribution Snake](https://raw.githubusercontent.com/username=Shubh1810/output/github-contribution-grid-snake.svg)
-
