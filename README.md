@@ -34,19 +34,19 @@ I'm Shubh Sheth, a passionate Software Developer and AI enthusiast currently stu
 
 <p align="center">
   <a href="https://linkedin.com/in/YourLinkedIn" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-YourName-informational?style=flat&logo=linkedin&color=0A66C2"/>
+    <img src="https://img.shields.io/badge/LinkedIn-shubh-sheth-informational?style=flat&logo=linkedin&color=0A66C2"/>
   </a>
   <a href="https://twitter.com/YourTwitterHandle" target="_blank">
-    <img src="https://img.shields.io/badge/Twitter-@YourTwitterHandle-informational?style=flat&logo=twitter&color=1DA1F2"/>
+    <img src="https://img.shields.io/badge/Twitter-@Shubh_1810-informational?style=flat&logo=twitter&color=1DA1F2"/>
   </a>
   <a href="https://instagram.com/YourInstagramHandle" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-@YourInstagramHandle-informational?style=flat&logo=instagram&color=E4405F"/>
+    <img src="https://img.shields.io/badge/Instagram-@shhubh.sheth-informational?style=flat&logo=instagram&color=E4405F"/>
   </a>
   <a href="https://discord.gg/YourDiscordInvite" target="_blank">
-    <img src="https://img.shields.io/badge/Discord-YourDiscordTag-informational?style=flat&logo=discord&color=5865F2"/>
+    <img src="https://img.shields.io/badge/Discord-bluntmachete18-informational?style=flat&logo=discord&color=5865F2"/>
   </a>
   <a href="https://t.me/YourTelegramHandle" target="_blank">
-    <img src="https://img.shields.io/badge/Telegram-@YourTelegramHandle-informational?style=flat&logo=telegram&color=2CA5E0"/>
+    <img src="https://img.shields.io/badge/Telegram-@BluntSF-informational?style=flat&logo=telegram&color=2CA5E0"/>
   </a>
 </p>
 
