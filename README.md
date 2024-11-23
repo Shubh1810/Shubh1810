@@ -40,7 +40,7 @@ I'm Shubh Sheth, a passionate Software Developer and AI enthusiast currently stu
     <img src="https://img.shields.io/badge/Twitter-@Shubh_1810-informational?style=flat&logo=twitter&color=1DA1F2"/>
   </a>
   <a href="https://instagram.com/YourInstagramHandle" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-@shhubh.sheth-informational?style=flat&logo=instagram&color=E4405F"/>
+    <img src="https://img.shields.io/badge/Instagram-@shubh.sheth-informational?style=flat&logo=instagram&color=E4405F"/>
   </a>
   <a href="https://discord.gg/YourDiscordInvite" target="_blank">
     <img src="https://img.shields.io/badge/Discord-bluntmachete18-informational?style=flat&logo=discord&color=5865F2"/>
