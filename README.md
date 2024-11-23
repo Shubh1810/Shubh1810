@@ -32,22 +32,24 @@ I'm Shubh Sheth, a passionate Software Developer and AI enthusiast currently stu
 
 ### 🌐 Connect with me
 
-  <a href="https://linkedin.com/in/shubh-sheth" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="40" height="40"/>
+  <a href="https://linkedin.com/in/YourLinkedIn" target="_blank">
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v10/icons/linkedin.svg" alt="LinkedIn" width="40" height="40"/>
   </a>
   <a href="https://instagram.com/shubh.sheth" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/instagram/instagram-original.svg" alt="Instagram" width="40" height="40"/>
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v10/icons/instagram.svg" alt="Instagram" width="40" height="40"/>
   </a>
+    <!-- Discord -->
+
   <a href="https://discord.gg/bluntmachete18" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/discord/discord-original.svg" alt="Discord" width="40" height="40"/>
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v10/icons/discord.svg" alt="Discord" width="40" height="40"/>
   </a>
-  <a href="https://t.me/YourTelegramHandle" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/telegram/telegram-original.svg" alt="Telegram" width="40" height="40"/>
+  <a href="https://t.me/BluntSf" target="_blank">
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v10/icons/telegram.svg" alt="Telegram" width="40" height="40"/>
   </a>
-  
-  <a href="https://x.com/Shubh_1810" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/4/4f/X_logo.svg" alt="X" width="40" height="40"/>
+  <a href="https://x.com/YourXHandle" target="_blank">
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v10/icons/x.svg" alt="X" width="40" height="40"/>
   </a>
+
 
 </p>
 
