@@ -36,8 +36,8 @@ I'm Shubh Sheth, a passionate Software Developer and AI enthusiast currently stu
   <a href="https://linkedin.com/in/shubh-sheth" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-shubh-sheth-informational?style=flat&logo=linkedin&color=0A66C2"/>
   </a>
-  <a href="https://twitter.com/Shubh_1810" target="_blank">
-    <img src="https://img.shields.io/badge/Twitter-@Shubh_1810-informational?style=flat&logo=twitter&color=1DA1F2"/>
+  <a href="https://x.com/Shubh_1810" target="_blank">
+    <img src="https://img.shields.io/badge/x-@Shubh_1810-informational?style=flat&logo=twitter&color=1DA1F2"/>
   </a>
   <a href="https://instagram.com/shubh.sheth" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-@shubh.sheth-informational?style=flat&logo=instagram&color=E4405F"/>
