@@ -32,13 +32,14 @@ I'm Shubh Sheth, a passionate Software Developer and AI enthusiast currently stu
 
 ### 🌐 Connect with me
 
-<p align="center">
   <a href="https://linkedin.com/in/shubh-sheth" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-shubh-sheth-informational?style=flat&logo=linkedin&color=0A66C2"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="40" height="40"/>
   </a>
-  <a href="https://x.com/Shubh_1810" target="_blank">
-    <img src="https://img.shields.io/badge/X-@Shubh_1810-informational?style=flat&logo=twitter&color=1DA1F2"/>
+
+  <a href="https://x.com/YourTwitterHandle" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/x/x-original.svg" alt="x" width="40" height="40"/>
   </a>
+
   <a href="https://instagram.com/shubh.sheth" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-@shubh.sheth-informational?style=flat&logo=instagram&color=E4405F"/>
   </a>
