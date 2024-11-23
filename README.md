@@ -24,9 +24,9 @@ I'm Shubh Sheth, a passionate Software Developer and AI enthusiast currently stu
 
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Shubh1810&show_icons=true&theme=radical" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Shubh1810&theme=radical" alt="GitHub Streak" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shubh1810&layout=compact&theme=radical" alt="Top Languages" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=YourUsername&show_icons=true&hide_border=true&theme=material-palenight&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=YourUsername&hide_border=true&theme=material-palenight"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YourUsername&show_icons=true&hide_border=true&layout=compact&langs_count=8&theme=material-palenight"/>
 </div>
 
 
