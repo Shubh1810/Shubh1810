@@ -32,20 +32,20 @@ I'm **Shubh Sheth**, a passionate Software Developer and AI enthusiast currently
   <table>
     <tr>
       <td width="50%">
-        <img src="https://github-readme-stats.vercel.app/api?username=ShubhSF&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="ShubhSF's GitHub Stats" />
+        <img src="https://github-readme-stats.vercel.app/api?username=Shubh1810&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="ShubhSF's GitHub Stats" />
       </td>
       <td width="50%">
-        <img src="https://github-readme-streak-stats.herokuapp.com/?user=ShubhSF&theme=tokyonight&hide_border=true" alt="ShubhSF's Streak" />
+        <img src="https://github-readme-streak-stats.herokuapp.com/?user=Shubh1810&theme=tokyonight&hide_border=true" alt="ShubhSF's Streak" />
       </td>
     </tr>
   </table>
 </div>
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShubhSF&layout=compact&theme=tokyonight&hide_border=true" alt="ShubhSF's Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shubh1810&layout=compact&theme=tokyonight&hide_border=true" alt="ShubhSF's Top Languages" />
 </div>
 <details>
   <summary>📈 Contribution Graph</summary>
-  <img src="https://activity-graph.herokuapp.com/graph?username=ShubhSF&theme=react-dark&hide_border=true" alt="Contribution Graph" />
+  <img src="https://activity-graph.herokuapp.com/graph?username=Shubh1810&theme=react-dark&hide_border=true" alt="Contribution Graph" />
 </details>
 ---
 
