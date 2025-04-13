@@ -43,10 +43,7 @@ I'm **Shubh Sheth**, a passionate Software Developer and AI enthusiast currently
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shubh1810&layout=compact&theme=tokyonight&hide_border=true" alt="ShubhSF's Top Languages" />
 </div>
-<details>
-  <summary>📈 Contribution Graph</summary>
-  <img src="https://activity-graph.herokuapp.com/graph?username=Shubh1810&theme=react-dark&hide_border=true" alt="Contribution Graph" />
-</details>
+
 ---
 
 ### 🌐 Connect with me
