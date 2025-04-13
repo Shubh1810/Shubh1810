@@ -28,12 +28,25 @@ I'm **Shubh Sheth**, a passionate Software Developer and AI enthusiast currently
 
 ### 📊 GitHub Stats
 
-<p align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=Shubh1810&show_icons=true&hide_border=true&theme=material-palenight&include_all_commits=true&count_private=true&rank_icon=github" alt="Shubh's GitHub Stats"/>
-  <br/> <img height="180" src="https://github-readme-streak-stats.vercel.app/?user=Shubh1810&hide_border=true&theme=material-palenight" alt="Shubh's GitHub Streak"/>
-  <br/> <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shubh1810&show_icons=true&hide_border=true&layout=compact&langs_count=8&theme=material-palenight" alt="Shubh's Top Languages"/>
-</p>
-
+<div align="center">
+  <table>
+    <tr>
+      <td width="50%">
+        <img src="https://github-readme-stats.vercel.app/api?username=ShubhSF&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="ShubhSF's GitHub Stats" />
+      </td>
+      <td width="50%">
+        <img src="https://github-readme-streak-stats.herokuapp.com/?user=ShubhSF&theme=tokyonight&hide_border=true" alt="ShubhSF's Streak" />
+      </td>
+    </tr>
+  </table>
+</div>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShubhSF&layout=compact&theme=tokyonight&hide_border=true" alt="ShubhSF's Top Languages" />
+</div>
+<details>
+  <summary>📈 Contribution Graph</summary>
+  <img src="https://activity-graph.herokuapp.com/graph?username=ShubhSF&theme=react-dark&hide_border=true" alt="Contribution Graph" />
+</details>
 ---
 
 ### 🌐 Connect with me
