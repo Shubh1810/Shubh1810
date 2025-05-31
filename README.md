@@ -35,7 +35,7 @@ I'm **Shubh Sheth**, a passionate Software Developer and AI enthusiast currently
         <img src="https://github-readme-stats.vercel.app/api?username=Shubh1810&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="ShubhSF's GitHub Stats" />
       </td>
       <td width="50%">
-        <img src="https://github-readme-streak-stats.herokuapp.com/?user=Shubh1810&theme=tokyonight&hide_border=true" alt="ShubhSF's Streak" />
+        <img src="https://github-readme-streak-stats.herokuapp.com/?user=Shubh1810&theme=highcontrast&hide_border=true" alt="ShubhSF's Streak" />
       </td>
     </tr>
   </table>
