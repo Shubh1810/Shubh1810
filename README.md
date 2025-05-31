@@ -32,16 +32,16 @@ I'm **Shubh Sheth**, a passionate Software Developer and AI enthusiast currently
   <table>
     <tr>
       <td width="50%">
-        <img src="https://github-readme-stats.vercel.app/api?username=Shubh1810&show_icons=true&theme=highcontrast&hide_border=true&count_private=true" alt="ShubhSF's GitHub Stats" />
+        <img src="https://github-readme-stats.vercel.app/api?username=Shubh1810&show_icons=true&theme=highcontrast" alt="ShubhSF's GitHub Stats" />
       </td>
       <td width="50%">
-        <img src="https://github-readme-streak-stats.herokuapp.com/?user=Shubh1810&theme=maroongold&hide_border=true" alt="ShubhSF's Streak" />
+        <img src="https://streak-stats.demolab.com/?user=Shubh1810&theme=maroongold" alt="ShubhSF's Streak" />
       </td>
     </tr>
   </table>
 </div>
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shubh1810&layout=compact&theme=rose&hide_border=true" alt="ShubhSF's Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shubh1810&layout=donut&theme=rose" alt="ShubhSF's Top Languages" />
 </div>
 
 ---
