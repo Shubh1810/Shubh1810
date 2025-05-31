@@ -1,8 +1,8 @@
 ## Hi there 👋
 
-I'm **Shubh Sheth**, a passionate Software Developer and AI enthusiast currently pursuing Computer Science at Penn State University and Foothill College. I'm driven by writing code that makes a difference, contributing to the open-source community, and embracing a "learning by doing" methodology.
+I'm **Shubh Sheth**, a passionate AI enthusiast currently pursuing Computer Science at Penn State University and Foothill College. I'm driven by writing code that makes a difference, contributing to the open-source community, and embracing a "learning by doing" methodology.
 
-- 🔭 Currently developing AI solutions for small businesses & enhancing my ML skills.
+- 🔭 Currently developing AI agentic workflows for small businesses & enhancing my ML skills.
 - 🌱 Learning advanced data analysis techniques & exploring new AI algorithms.
 - 👯 Open to collaborating on innovative AI projects & open-source contributions.
 - 💬 Ask me about AI, Machine Learning, and Full-Stack Development.
