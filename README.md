@@ -41,7 +41,7 @@ I'm **Shubh Sheth**, a passionate Software Developer and AI enthusiast currently
   </table>
 </div>
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shubh1810&layout=compact&theme=date_night&hide_border=true" alt="ShubhSF's Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shubh1810&layout=compact&theme=rose&hide_border=true" alt="ShubhSF's Top Languages" />
 </div>
 
 ---
