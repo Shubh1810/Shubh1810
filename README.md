@@ -26,7 +26,7 @@ I'm **Shubh Sheth**, a passionate AI enthusiast currently pursuing Computer Scie
 
 ---
 
-### 📊 GitHub Stats
+
 
 <div align="center">
   <table cellspacing="0" cellpadding="0">
@@ -46,7 +46,6 @@ I'm **Shubh Sheth**, a passionate AI enthusiast currently pursuing Computer Scie
 
 ---
 
-### 🌐 Connect with me
 
 <div align="center"> <a href="https://linkedin.com/in/shubh-sheth" target="_blank"> <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /> </a> <a href="https://github.com/ShubhSF" target="_blank"> <img src="https://img.shields.io/badge/GitHub-%23181717.svg?&style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /> </a> <a href="https://instagram.com/shubh.sheth" target="_blank"> <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /> </a> <a href="https://discord.gg/bluntmachete18" target="_blank"> <img src="https://img.shields.io/badge/Discord-%235865F2.svg?&style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /> </a> <a href="https://t.me/BluntSf" target="_blank"> <img src="https://img.shields.io/badge/Telegram-%232CA5E0.svg?&style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" /> </a> <a href="https://twitter.com/shubhsf" target="_blank"> <img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" /> </a> </div> <div align="center"> <a href="mailto:shethshubh@gmail.com"> <img src="https://img.shields.io/badge/Email-shethshubh@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/> </a> </div> 
 ---
