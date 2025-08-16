@@ -1,13 +1,12 @@
-## Hi there 👋
+## Hi, I’m Shubh Sheth
 
-I'm **Shubh Sheth**, a passionate AI enthusiast currently pursuing Computer Science at Penn State University and Foothill College. I'm driven by writing code that makes a difference, contributing to the open-source community, and embracing a "learning by doing" methodology.
-
-- 🔭 Currently developing AI agentic workflows for small businesses & enhancing my ML skills.
-- 🌱 Learning advanced data analysis techniques & exploring new AI algorithms.
-- 👯 Open to collaborating on innovative AI projects & open-source contributions.
-- 💬 Ask me about AI, Machine Learning, and Full-Stack Development.
-- 📫 How to reach me: **shethshubh@gmail.com**
-- ⚡ Fun fact: When I'm not coding, I enjoy trading Bitcoin and Ethereum futures!
+I’m an AI builder hacking on agentic workflows, memory layers, and everything at the intersection of ML x Consumer. Currently studying Computer Science at Penn State & Foothill College, but spending most of my time shipping code, breaking things, and contributing to OSS.
+-	🔭 Building AI agents for small businesses + experimenting with infra for memory/context layers.
+-	🌱 Diving deeper into advanced data analysis & frontier AI architectures.
+-	🤝 Always down to collaborate on open-source + weird, ambitious AI ideas.
+-	💬 Ask me about AI/ML, full-stack dev, or orchestrating cracked workflows.
+-	📫 Reach me: shethshubh@gmail.com
+-	⚡ Fun fact: When I’m not coding, I’m probably trading Crypto futures.
 
 ---
 
