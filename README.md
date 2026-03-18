@@ -1,18 +1,13 @@
-## Hi, I’m Yash Sheth
+## Hi there 👋
 
-🚀 First-year CS undergrad in Mumbai, building my way into AI/ML from the ground up
+I'm **Shubh Sheth**, a passionate AI enthusiast currently pursuing Computer Science at Penn State University and Foothill College. I'm driven by writing code that makes a difference, contributing to the open-source community, and embracing a "learning by doing" methodology.
 
-I care about fundamentals → Python, data structures, and how systems actually work
-Currently exploring:
-	•	AI agents & real-world applications
-	•	LLMs and generative AI
-	•	Building products, not just projects
-
-I like breaking things down to first principles and then turning them into something useful (and eventually monetizable)
-
-Still early, but playing the long game — aiming for depth, not shortcuts
-
-Always learning. Always building.
+- 🔭 Currently developing AI agentic workflows for small businesses & enhancing my ML skills.
+- 🌱 Learning advanced data analysis techniques & exploring new AI algorithms.
+- 👯 Open to collaborating on innovative AI projects & open-source contributions.
+- 💬 Ask me about AI, Machine Learning, and Full-Stack Development.
+- 📫 How to reach me: **shethshubh@gmail.com**
+- ⚡ Fun fact: When I'm not coding, I enjoy trading Bitcoin and Ethereum futures!
 ---
 
 ### 🛠️ Languages and Tools
